@@ -13,3 +13,5 @@ namespace Domain.DTOs
         public string Telefono { get; set; }
     }
 }
+//otro bug 
+//este bug es el bueno xdxdxdxdxdxdxdx 
